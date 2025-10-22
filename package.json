@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-node-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
